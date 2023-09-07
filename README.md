@@ -12,7 +12,7 @@ npm i @aqpdev/form-blocker
 ### React example
 ```javascript
 import React from "react"
-import {FormBlocker} from "form-blocker";
+import {FormBlocker} from "@aqpdev/form-blocker";
 export default function Home()
 {
     const ref = useRef(null);
