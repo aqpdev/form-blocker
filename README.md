@@ -4,7 +4,7 @@ Library to block form elements to process the submission.
 ## Installation
 
 ```bash
-npm i form-blocker
+npm i @aqpdev/form-blocker
 ```
 
 ## Usage

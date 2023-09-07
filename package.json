@@ -1,5 +1,5 @@
 {
-  "name": "form-blocker",
+  "name": "@aqpdev/form-blocker",
   "version": "1.0.0",
   "description": "Library to block form elements to process the submission.",
   "main": "index.js",
